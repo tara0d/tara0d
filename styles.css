@@ -26,7 +26,7 @@ header {
     /* position: fixed; */
     /* top: 0; */
     height: 13vh;
-    background-color: aqua;
+    background-color:#161B40;
 }
 
 .nav-bar {
@@ -64,7 +64,7 @@ nav {
 .hero-section {
     /* background-image: url(images/starry_background_hollowcolour.png); */
     /* width: 100%; */
-    height: 100vh; /*This makes the image fullscreen but there is some overlap at the botttom*/
+    height: 87vh; /*This makes the image fullscreen but there is some overlap at the botttom*/
     /* height: 100%; */
     background-attachment: fixed; /*This keeps the image static - probably only needed if not using plain background colour*/
     /* background-position: 50% 50%; */
