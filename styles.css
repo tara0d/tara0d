@@ -25,6 +25,8 @@ body {
 header {
     /* position: fixed; */
     /* top: 0; */
+    height: 13vh;
+    background-color: aqua;
 }
 
 .nav-bar {
@@ -37,7 +39,7 @@ nav {
     display: flex;
     justify-content: space-between;
     margin: 0;
-    background-color: #161B40;
+    /* background-color: #164029; */
     align-content: center;
     padding: 2%;
     
