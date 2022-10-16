@@ -153,14 +153,14 @@ nav {
     /* border: 2px solid pink; */
     display: flex;
     flex-direction: column;
-    background-image: url(images/card-test2.png);
+    background-image: url(Images/card-test2.png);
     background-repeat:no-repeat;
     width: 450px;
     padding-bottom: 3%; /*This makes sure the bottom of the image is seen*/
 }
 
 .project-card:hover {
-    background-image: url(images/card-test-fill2.png);
+    background-image: url(Images/card-test-fill2.png);
 }
 
 .project-card_image {
