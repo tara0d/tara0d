@@ -362,16 +362,22 @@ html {
     padding: 30% 3% 0 5%;
 }
 
+.projects-card_wrapper {
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+
 .project-card {
 background-image: none;
 background-color:lightsteelblue;
-margin: 4%;
-width: 180px;
+margin: 4% 0 4% 0;
+width: 100%;
 }
 
 .project-card_image {
-    object-fit: contain;
-    padding: 0%;
+    padding: 1% 0 0 0;
+    width: 348px;
 }
 
 .project-card_text {
