@@ -385,6 +385,10 @@ width: 100%;
     padding: 4%;
 }
 
+.project-card_text a {
+    text-decoration: none;
+}
+
 .project-card:hover {
     background-image: none;
 }
